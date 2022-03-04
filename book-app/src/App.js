@@ -36,6 +36,7 @@ function App() {
            
         </div> 
         <div id="rightbook">
+        Right
         <img src={b2} className="App-logo" alt="logo" />
         </div> 
         <Magic />
